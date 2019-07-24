@@ -1,4 +1,4 @@
-# vue-router-dispense
+# vue-i18n-storge
 
 一个基于 vue-i18n 的扩展， vue-i18n 原有功能及配置完全保留，主要功能有以下几点：
 

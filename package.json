@@ -1,6 +1,6 @@
 {
   "name": "vue-i18n-storge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Internationalize the cache approximately and internationalize it",
   "main": "dist/index.cjs.js",
   "scripts": {
